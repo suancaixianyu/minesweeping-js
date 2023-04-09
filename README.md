@@ -13,7 +13,7 @@ yunzai-bot的扫雷游戏插件
 
 1. 下载 _扫雷.js_ 放到 _\plugins\example_ 目录下
 2. 下载  _html/demo.html_ 放到 _\resources\html_ 目录下，没有html文件夹自己创建一个
-![例如](img%E7%A4%BA%E4%BE%8B.png)
+![例如](prompt.png)
 
 #### 方法2
 
