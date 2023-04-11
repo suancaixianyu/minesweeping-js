@@ -21,7 +21,7 @@ yunzai-bot的扫雷游戏插件
 
 1. 下载 **扫雷.js** 放到  **\plugins\example**  目录下
 2. 下载 **demo.html** 放到  **\resources\html** 目录下，没有html文件夹自己创建一个
-![例如](img%E7%A4%BA%E4%BE%8B.png)
+![例如](prompt.png)
 
 
 ### 指令
